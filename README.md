@@ -13,6 +13,6 @@ Projeto construido no evento Next Level Week da Rocketseat.
 - JS
 - Git e GitHub
 
-## 💚 Contato 
+## 💚 Contato:
 
 rafaelganesh@gmail.com
