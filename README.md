@@ -1,5 +1,5 @@
 # PORTIFOLIO DE RAFAEL
-![preview](/gihub/preview.png)
+![preview](./gihub/preview.png)
 
 Projeto construido no evento Next Level Week da Rocketseat.
 
